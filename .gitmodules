@@ -1,0 +1,3 @@
+[submodule "Pomodoro"]
+	path = Pomodoro
+	url = https://github.com/salimehdi/Pomodoro.git
