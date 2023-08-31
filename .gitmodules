@@ -1,3 +1,6 @@
 [submodule "Pomodoro"]
 	path = Pomodoro
 	url = https://github.com/salimehdi/Pomodoro.git
+[submodule "TicketBooking"]
+	path = TicketBooking
+	url = https://github.com/salimehdi/TicketBooking.git
